@@ -1,4 +1,5 @@
-Maryam, 18, DNHS 2025
+Maryam, San Diego
+Electrical Engineering @ Purdue, '29
 
 <!--
 **MaryamAbdul-Aziz/maryamabdul-aziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
